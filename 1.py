@@ -48,3 +48,5 @@ print("酒店信息：",hotel_name,hotel_price,hotel_review)
 #　===== 5、关闭浏览器，关闭本次会话 ======
 time.sleep(10)
 driver.quit()
+
+
